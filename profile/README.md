@@ -26,7 +26,7 @@
 - https://speacher.vercel.app
 
 <div>
-  <video src = "https://github.com/Speacher/.github/assets/97346583/d0c78cd3-aadb-42cd-82b8-c09298b81a4d" />
+  <video src = "https://github.com/Speacher/.github/assets/97346583/ea3ab113-4ca8-4416-bfc4-7c0ab1c39e90" />
 </div>
 
 <br>
