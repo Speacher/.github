@@ -7,6 +7,7 @@
 - 발표에 부담감을 느끼는 발표자를 위한 발표 AI 피드백 서비스
 
 <img width="961" alt="service" src="https://github.com/Speacher/.github/assets/126947828/07f1673a-350d-4142-8a3e-d4c8e2335e3c">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSpeacher&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
