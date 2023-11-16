@@ -7,6 +7,7 @@
 > 서비스 소개 글~
 
 
+<br>
 
 #### **주요 적용 기술**
 
@@ -15,22 +16,20 @@
 - 주요 기술 : React, Spring boot, Spring Data JPA
 
 #### 프로젝트 정보
- 해당 프로젝트를 정보 ~~~
+> 해당 프로젝트를 정보 ~~~
 
 #### 배포 주소
-~~~
-
-
-<video width="630" height="300" src="https://github.com/Speacher/.github/assets/126947828/82df05c8-37b5-45a8-a2ba-d083dec4c872"></video>
-
-
-<u></u>
-
-
-
-<br>
-<hr>
+> ~~~
 
 #### **기대 효과**
 
 > 기대효과~~~~
+
+
+
+
+
+
+
+<hr>
+
