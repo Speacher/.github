@@ -1,6 +1,6 @@
 ## 2023 GDSC Project MARATHON 개발디상국 team
 동혁이 바보~
 
-<video src = "https://github.com/Speacher/.github/assets/126947828/82df05c8-37b5-45a8-a2ba-d083dec4c872" width=90% autoplay={true} controls={true}>
+<video src = "https://github.com/Speacher/.github/assets/126947828/82df05c8-37b5-45a8-a2ba-d083dec4c872" width=500 autoplay={true} controls={true}>
 
 
