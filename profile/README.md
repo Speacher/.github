@@ -4,16 +4,18 @@
 
 #### **서비스 소개**
 
-> 서비스 소개 글~
+> 발표자를 위한 발표 AI 피드백 서비스
 
 
 <br>
 
 #### **주요 적용 기술**
 
-- 개발 언어 : HTML, CSS, JavaScript,  Java
+- 개발 언어 : REACT, NEXT.JS, TYPESCRIP, THTML, CSS, JavaScript,  Java
 - 개발 도구 : Visual Studio Code, IntelliJ IDEA, Postman
 - 주요 기술 : React, Spring boot, Spring Data JPA
+
+<br>
 
 #### 프로젝트 정보
 > 해당 프로젝트를 정보 ~~~
