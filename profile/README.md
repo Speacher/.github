@@ -1,7 +1,6 @@
 ## 2023 GDSC Project MARATHON 개발디상국 team
 
 #### 서비스 소개
-- 발표에 부담감을 느끼는 발표자를 위한 발표 AI 피드백 서비스
 
 <img width="961" alt="service" src="https://github.com/Speacher/.github/assets/126947828/07f1673a-350d-4142-8a3e-d4c8e2335e3c">
 
