@@ -31,6 +31,8 @@
 #### 배포 주소
 - https://speacher.vercel.app
 
+  >사용 영상
+
 <div>
   <video src="https://github.com/Speacher/.github/assets/97346583/edf7775d-0d9b-4b00-9573-2d3250fa15f8" />
 </div>
